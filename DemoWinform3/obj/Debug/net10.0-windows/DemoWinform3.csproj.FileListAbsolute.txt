@@ -1,0 +1,17 @@
+D:\C#\DemoWinform3\bin\Debug\net10.0-windows\DemoWinform3.exe
+D:\C#\DemoWinform3\bin\Debug\net10.0-windows\DemoWinform3.deps.json
+D:\C#\DemoWinform3\bin\Debug\net10.0-windows\DemoWinform3.runtimeconfig.json
+D:\C#\DemoWinform3\bin\Debug\net10.0-windows\DemoWinform3.dll
+D:\C#\DemoWinform3\bin\Debug\net10.0-windows\DemoWinform3.pdb
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.Form1.resources
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.Properties.Resources.resources
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.csproj.GenerateResource.cache
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.AssemblyInfoInputs.cache
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.AssemblyInfo.cs
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.csproj.CoreCompileInputs.cache
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.dll
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\refint\DemoWinform3.dll
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.pdb
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\DemoWinform3.genruntimeconfig.cache
+D:\C#\DemoWinform3\obj\Debug\net10.0-windows\ref\DemoWinform3.dll
