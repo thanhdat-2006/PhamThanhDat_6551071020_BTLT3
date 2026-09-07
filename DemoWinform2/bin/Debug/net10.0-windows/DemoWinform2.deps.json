@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DemoWinform2/1.0.0": {
+        "runtime": {
+          "DemoWinform2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoWinform2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
